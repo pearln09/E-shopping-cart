@@ -39,10 +39,15 @@ D. Example Products (products.txt)
 
 E. ▶️ Getting Started
 1. Clone the Repo:
-   ```bash
+```bash
 git clone https://github.com/your-username/e-shopping-simulator.git
 cd e-shopping-simulator
-3. Run the Application: python main.py
+```
+
+3. Run the Application:
+```bash
+python main.py
+```
 
 F. Example CLI Usage:
 
