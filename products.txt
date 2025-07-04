@@ -1,0 +1,15 @@
+101,Laptop,60000,10,Electronics,High-end gaming laptop
+102,Python Book,500,50,Books,Programming basics
+103,Headphones,1500,20,Electronics,Noise cancelling
+104,Smartphone,45000,8,Electronics,Latest model with 5G support
+105,Wireless Mouse,800,25,Electronics,Ergonomic and fast
+106,Office Chair,7000,5,Furniture,Comfortable office chair with lumbar support
+107,Coffee Maker,3500,12,Appliances,Automatic brewing system
+108,Water Bottle,300,40,Accessories,Stainless steel insulated bottle
+109,Notebook,120,100,Stationery,200 pages ruled notebook
+110,Gaming Keyboard,3500,10,Electronics,RGB backlit mechanical keyboard
+111,Backpack,2500,15,Accessories,Waterproof with laptop compartment
+112,LED Monitor,15000,6,Electronics,27-inch Full HD display
+113,Electric Kettle,2000,10,Appliances,Fast boiling
+114,Sports Shoes,4000,18,Footwear,Lightweight and comfortable
+115,Desk Lamp,1200,20,Furniture,LED adjustable brightness

@@ -1,0 +1,5 @@
+Customer: odwjhy, Total:$ {<product.Product object at 0x000002705C674E90>: 1}, Payment: 54000.0
+Customer: fejkgh, Total:$ {<product.Product object at 0x000001889BF94E90>: 1}, Payment: 59500.0
+Customer: iewudy, Total:$ 59500.0, Payment: CreditCardPayment
+Laptop x 1
+
