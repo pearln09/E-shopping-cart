@@ -2,23 +2,23 @@
 An end-to-end Object-Oriented Programming (OOP) based command-line e-commerce simulator, built with Python.
 This project demonstrates encapsulation, inheritance, polymorphism, and file handling, creating a complete e-commerce simulation.
 
-A. Features:
-1. View available products
-2. Add products to a shopping cart
-3. Apply discounts (Flat / Percentage)
-4. Process payments (Credit Card / PayPal)
-5. Load products from a .txt file
-6. Save orders to an order log file
-7. Exception handling for stock availability and invalid inputs
+***A. Features:***
+- View available products
+- Add products to a shopping cart
+- Apply discounts (Flat / Percentage)
+- Process payments (Credit Card / PayPal)
+- Load products from a .txt file
+- Save orders to an order log file
+- Exception handling for stock availability and invalid inputs
 
-B. OOP Concepts Used:
+***B. OOP Concepts Used:***
 Concepts:
-1. Encapsulation: Private product, order, and customer data in classes
-2. Inheritance: CreditCardPayment, PayPalPayment inherit from Payment
-3. Polymorphism: apply_discount() and process_payment() method overriding
-4. Abstraction: Simplified CLI hiding internal class structure
+- *Encapsulation*: Private product, order, and customer data in classes
+- *Inheritance*: CreditCardPayment, PayPalPayment inherit from Payment
+- *Polymorphism*: apply_discount() and process_payment() method overriding
+- *Abstraction*: Simplified CLI hiding internal class structure
 
-C. Project Structure:
+**C. Project Structure:**
 
 ```bash
 E-shopping/
@@ -32,7 +32,7 @@ E-shopping/
 └── orders.txt             # Auto-generated order summaries
 ```
 
-D. Example Products (products.txt)
+**D. Example Products (products.txt)**
 
 ```bash
 101,Laptop,60000,10,Electronics,High-end gaming laptop
@@ -41,19 +41,20 @@ D. Example Products (products.txt)
 104,Smartphone,45000,8,Electronics,Latest model with 5G support
 ```
 
-E. ▶️ Getting Started
-1. Clone the Repo:
+**E. ▶️ Getting Started**
+
+*1. Clone the Repo:*
 ```bash
 git clone https://github.com/your-username/e-shopping-simulator.git
 cd e-shopping-simulator
 ```
 
-3. Run the Application:
+*2. Run the Application:*
 ```bash
 python main.py
 ```
 
-F. Example CLI Usage:
+**F. Example CLI Usage:**
 
 ```bash
 --- E-Commerce CLI Menu ---
@@ -66,7 +67,7 @@ F. Example CLI Usage:
 Enter your choice: 1
 ```
 
-G. Order History Example (orders.txt)
+**G. Order History Example (orders.txt)**
 
 ```bash
 Customer: Pearl, Total: ₹54000.0, Payment: PayPal
@@ -74,7 +75,8 @@ Laptop x 1
 Headphones x 2
 ```
 
-H. Built With
+**H. Built With:**
+
 1. Python 3.x
 2. Object-Oriented Programming (OOP)
 3. File I/O
