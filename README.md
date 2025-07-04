@@ -20,15 +20,15 @@ Concepts:
 
 C. Project Structure:
 
-E-shopping
-├── main.py               # Main CLI program
-├── product.py             # Product class + file loader
-├── customer.py            # Customer & Cart classes
-├── payment.py             # Payment classes
-├── discount.py            # Discount strategy classes
-├── order.py               # Order generation & saving
-├── products.txt           # Product database
-└── orders.txt             # Auto-generated order summaries
+E-shopping:
+1. main.py (Main CLI program)
+2. product.py (Product class + file loader)
+3. customer.py (Customer & Cart classes)
+4. payment.py (Payment classes)
+5. discount.py (Discount strategy classes)
+6. order.py (Order generation & saving)
+7. products.txt (Product database)
+8. orders.txt (Auto-generated order summaries)
 
 D. Example Products (products.txt)
 
