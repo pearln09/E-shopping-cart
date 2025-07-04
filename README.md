@@ -20,22 +20,26 @@ Concepts:
 
 C. Project Structure:
 
-E-shopping:
-1. main.py (Main CLI program)
-2. product.py (Product class + file loader)
-3. customer.py (Customer & Cart classes)
-4. payment.py (Payment classes)
-5. discount.py (Discount strategy classes)
-6. order.py (Order generation & saving)
-7. products.txt (Product database)
-8. orders.txt (Auto-generated order summaries)
+```bash
+E-shopping/
+├── main.py               # Main CLI program
+├── product.py             # Product class + file loader
+├── customer.py            # Customer & Cart classes
+├── payment.py             # Payment classes
+├── discount.py            # Discount strategy classes
+├── order.py               # Order generation & saving
+├── products.txt           # Product database
+└── orders.txt             # Auto-generated order summaries
+```
 
 D. Example Products (products.txt)
 
+```bash
 1. 101,Laptop,60000,10,Electronics,High-end gaming laptop
 2. 102,Python Book,500,50,Books,Programming basics
 3. 103,Headphones,1500,20,Electronics,Noise cancelling
 4. 104,Smartphone,45000,8,Electronics,Latest model with 5G support
+```
 
 E. ▶️ Getting Started
 1. Clone the Repo:
@@ -51,6 +55,7 @@ python main.py
 
 F. Example CLI Usage:
 
+```bash
 --- E-Commerce CLI Menu ---
 1. View Products
 2. Add to Cart
@@ -59,12 +64,15 @@ F. Example CLI Usage:
 5. Exit
 
 Enter your choice: 1
+```
 
 G. Order History Example (orders.txt)
 
+```bash
 Customer: Pearl, Total: ₹54000.0, Payment: PayPal
 Laptop x 1
 Headphones x 2
+```
 
 H. Built With
 1. Python 3.x
