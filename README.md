@@ -2,7 +2,7 @@
 An end-to-end Object-Oriented Programming (OOP) based command-line e-commerce simulator, built with Python.
 This project demonstrates encapsulation, inheritance, polymorphism, and file handling, creating a complete e-commerce simulation.
 
-***A. Features:***
+**A. Features:**
 - View available products
 - Add products to a shopping cart
 - Apply discounts (Flat / Percentage)
@@ -11,7 +11,7 @@ This project demonstrates encapsulation, inheritance, polymorphism, and file han
 - Save orders to an order log file
 - Exception handling for stock availability and invalid inputs
 
-***B. OOP Concepts Used:***
+**B. OOP Concepts Used:**
 Concepts:
 - *Encapsulation*: Private product, order, and customer data in classes
 - *Inheritance*: CreditCardPayment, PayPalPayment inherit from Payment
