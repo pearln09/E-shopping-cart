@@ -35,10 +35,10 @@ E-shopping/
 D. Example Products (products.txt)
 
 ```bash
-1. 101,Laptop,60000,10,Electronics,High-end gaming laptop
-2. 102,Python Book,500,50,Books,Programming basics
-3. 103,Headphones,1500,20,Electronics,Noise cancelling
-4. 104,Smartphone,45000,8,Electronics,Latest model with 5G support
+101,Laptop,60000,10,Electronics,High-end gaming laptop
+102,Python Book,500,50,Books,Programming basics
+103,Headphones,1500,20,Electronics,Noise cancelling
+104,Smartphone,45000,8,Electronics,Latest model with 5G support
 ```
 
 E. ▶️ Getting Started
