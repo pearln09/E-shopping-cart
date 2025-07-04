@@ -38,8 +38,11 @@ D. Example Products (products.txt)
 4. 104,Smartphone,45000,8,Electronics,Latest model with 5G support
 
 E. ▶️ Getting Started
-1. Clone the Repo: git clone https://github.com/your-username/e-shopping-simulator.git  cd e-shopping-simulator
-2. Run the Application: python main.py
+1. Clone the Repo:
+   ```bash
+git clone https://github.com/your-username/e-shopping-simulator.git
+cd e-shopping-simulator
+3. Run the Application: python main.py
 
 F. Example CLI Usage:
 
