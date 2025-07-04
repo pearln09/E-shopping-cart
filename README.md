@@ -20,8 +20,8 @@ Concepts:
 
 C. Project Structure:
 
-E-shopping/
-├── main.py                # Main CLI program
+E-shopping
+├── main.py               # Main CLI program
 ├── product.py             # Product class + file loader
 ├── customer.py            # Customer & Cart classes
 ├── payment.py             # Payment classes
@@ -29,12 +29,14 @@ E-shopping/
 ├── order.py               # Order generation & saving
 ├── products.txt           # Product database
 └── orders.txt             # Auto-generated order summaries
+
 D. Example Products (products.txt)
 
 101,Laptop,60000,10,Electronics,High-end gaming laptop
 102,Python Book,500,50,Books,Programming basics
 103,Headphones,1500,20,Electronics,Noise cancelling
 104,Smartphone,45000,8,Electronics,Latest model with 5G support
+
 E. ▶️ Getting Started
 1. Clone the Repo: git clone https://github.com/your-username/e-shopping-simulator.git  cd e-shopping-simulator
 2. Run the Application: python main.py
